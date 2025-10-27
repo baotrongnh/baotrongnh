@@ -5,11 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nhbt.vercel.app/](https://nhbt.vercel.app/)
 
-- 💬 Ask me about **ReactJS**
-
 - 📫 How to reach me **nhbaotrong@gmail.com**
-
-- ⚡ Fun fact **I can play piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
