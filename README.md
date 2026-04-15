@@ -87,30 +87,6 @@ const baotrongnh = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baotrongnh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baotrongnh&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baotrongnh&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  [![HoChiMinh Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=baotrongnh&repo=HoChiMinh&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/baotrongnh/HoChiMinh)
-  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=baotrongnh&repo=MyPortfolio&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://nhbt.vercel.app/)
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
