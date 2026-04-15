@@ -18,6 +18,14 @@
 
 </div>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baotrongnh&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+<br/>
+
 <br/>
 
 ## 🚀 About Me
@@ -42,14 +50,6 @@ const baotrongnh = {
     contact: "nhbaotrong@gmail.com"
 };
 ```
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baotrongnh&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
@@ -96,14 +96,6 @@ const baotrongnh = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baotrongnh&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baotrongnh&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 <br/>
