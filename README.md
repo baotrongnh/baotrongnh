@@ -34,17 +34,14 @@
 const baotrongnh = {
     name: "Bảo Trọng",
     role: "Front-end Developer",
-    location: "Vietnam 🇻🇳",
-    code: ["TypeScript", "JavaScript", "Java", "C"],
+    location: "Ho Chi Minh, VietNam",
+    code: ["TypeScript", "JavaScript", "Java", "C", "C++"],
     technologies: {
         frontEnd: {
-            frameworks: ["React", "Next.js", "React Native"],
-            styling: ["Tailwind CSS", "SASS", "Bootstrap", "Ant Design"],
-            stateManagement: ["Redux", "Zustand", "Context API"]
+            frameworks: ["React", "Next.js", "React Native", "VueJS"],
+            styling: ["Tailwind CSS", "SASS", "Shadcn", "Ant Design"],
         },
-        tools: ["Git", "Vite", "Figma", "VS Code"],
         currentFocus: "Building responsive & accessible web applications",
-        learning: "Advanced React Patterns & Performance Optimization"
     },
     portfolio: "https://nhbt.vercel.app/",
     contact: "nhbaotrong@gmail.com"
